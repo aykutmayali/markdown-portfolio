@@ -1,11 +1,8 @@
 ---
-layout: default
+layout:Aykut MAYALI 
 ---
 
-{% include 01-name.md %}
 
----
-layout:x
----
-{%x%}
+
+
 
