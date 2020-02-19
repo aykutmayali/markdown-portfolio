@@ -4,8 +4,14 @@ layout: default
 
 {% include 01-name.md %}
 
----
-layout:x
----
-{%x%}
+<br>
+
+{% include 02-image.md %}
+
+<br>
+
+{% include 03-links.md %}
+
+
+
 
